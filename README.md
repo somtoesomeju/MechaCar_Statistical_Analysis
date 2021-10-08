@@ -1,5 +1,12 @@
 # MechaCar_Statistical_Analysis
 
+## Purpose
+The purpose of this analysis is to compare and analyze how a certain car model named "MechaCar" compares to other vehicles. This analysis is performed using R
+
+# Resources
+- Software: R Studio 2021.09.0, Visual Studio code 3.4.10
+- Languages: R
+
 ## Linear Regression to Predict MPG
 In my first part of the analysis, I am using the "mechacar_table" I created from the CSV file to predict the MPG (Miles per gallon) in the vehicles. Various analysis are as follows.
 ![R_Square_P_values.png](https://github.com/somtoesomeju/MechaCar_Statistical_Analysis/blob/main/Resources/R_Square_P_values.png)
