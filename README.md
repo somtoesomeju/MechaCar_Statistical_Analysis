@@ -11,8 +11,7 @@ In my first part of the analysis, I am using the "mechacar_table" I created from
 
 ## T-Tests on suspension Coils
 Using the data in the "suspension_coils" table, I was able to perform a T-test using R. From my analysis, the average T-Tests where as follows:
-- From the T test of all suspension coils, the p-value is not low enough (0.0602) to reject the population hypotheses. This means that the P value is not statistically different from the mean (add image)
-
+- From the T test of all suspension coils, the p-value is not low enough (0.0602) to reject the population hypotheses. This means that the P value is not statistically different from the mean ![R_Square_P_values.png](https://github.com/somtoesomeju/MechaCar_Statistical_Analysis/blob/main/Resources/R_Square_P_values.png)
 - From the T-test in lot 1, the p-value is also not low enough (1) to reject the population hypotheses. This means that the p-value is not statistically different from the mean. (add image)
 
 - From my test in lot 2, the p-value is also not low enough (0.6072) to reject the population hypotheses. This means that the p-value is not statistically different from the mean (add image).
