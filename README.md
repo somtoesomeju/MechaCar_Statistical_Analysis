@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 In my first part of the analysis, I am using the "mechacar_table" I created from the CSV file to predict the MPG (Miles per gallon) in the vehicles. Various analysis are as follows.
-[R_Square_P_values.png](https://github.com/somtoesomeju/MechaCar_Statistical_Analysis/blob/main/Resources/R_Square_P_values.png)
+![R_Square_P_values.png](https://github.com/somtoesomeju/MechaCar_Statistical_Analysis/blob/main/Resources/R_Square_P_values.png)
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset? AWD, spoiler_angle and vehicle_weight had a non-random amount of variance.
 
 - Is the slope of the linear model considered to be zero? Why or why not? Our slope is not zero becuase the p-value is less than 0.05 (p-value: 5.35e-11).
