@@ -37,5 +37,5 @@ In the null hypotheses, the average carrying capacity of the MechaCar is similar
 The best test that can be carried out would be a T-test for our analysis.
 
 # What data is needed
-in determining the carrying capacity, we would need to get the dimensions of the Mechacar, as wee as that of its competitors.
+in determining the carrying capacity, we would need to get the dimensions of the Mechacar, as we can compare how many passangers and load it can carry compared to its competitors.
 
