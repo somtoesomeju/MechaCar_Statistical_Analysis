@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Purpose
-The purpose of this analysis is to compare and analyze how a certain car model named "MechaCar" compares to other vehicles. This analysis is performed using R
+The purpose of this analysis is to compare and analyze how a certain car model named "MechaCar" compares to other vehicles. This analysis is performed using R.
 
 # Resources
 - Software: R Studio 2021.09.0, Visual Studio code 3.4.10
@@ -18,10 +18,10 @@ In my first part of the analysis, I am using the "mechacar_table" I created from
 
 ## T-Tests on suspension Coils
 Using the data in the "suspension_coils" table, I was able to perform a T-test using R. From my analysis, the average T-Tests where as follows:
-- From the T test of all suspension coils, the p-value is not low enough (0.0602) to reject the population hypotheses. This means that the P value is not statistically different from the mean ![sample_T_test_PSI.png](https://github.com/somtoesomeju/MechaCar_Statistical_Analysis/blob/main/Resources/sample_T_test_PSI.png)
+- From the T test of all suspension coils, the p-value is not low enough (0.0602) to reject the population hypotheses. This means that the P value is not statistically different from the mean. ![sample_T_test_PSI.png](https://github.com/somtoesomeju/MechaCar_Statistical_Analysis/blob/main/Resources/sample_T_test_PSI.png)
 - From the T-test in lot 1, the p-value is also not low enough (1) to reject the population hypotheses. This means that the p-value is not statistically different from the mean. ![Sample_T_test_Lot1.png](https://github.com/somtoesomeju/MechaCar_Statistical_Analysis/blob/main/Resources/Sample_T_test_Lot1.png)
 
-- From my test in lot 2, the p-value is also not low enough (0.6072) to reject the population hypotheses. This means that the p-value is not statistically different from the mean ![Sample_T_test_Lot2.png](https://github.com/somtoesomeju/MechaCar_Statistical_Analysis/blob/main/Resources/Sample_T_test_Lot2.png)
+- From my test in lot 2, the p-value is also not low enough (0.6072) to reject the population hypotheses. This means that the p-value is not statistically different from the mean. ![Sample_T_test_Lot2.png](https://github.com/somtoesomeju/MechaCar_Statistical_Analysis/blob/main/Resources/Sample_T_test_Lot2.png)
 
 - From my test in lot 3, we can assume that the P-value is actually low enough (0.0418) to reject the population hypotheses. This means that the p-value is statistically different from the mean ![sample_T_Test_lot3.png](https://github.com/somtoesomeju/MechaCar_Statistical_Analysis/blob/main/Resources/sample_T_Test_lot3.png)
 ## Study Car: MechaCar vs Competition:
